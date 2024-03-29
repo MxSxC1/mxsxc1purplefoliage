@@ -1,0 +1,8 @@
+{
+  "pack": {
+    "pack_format": 22,
+    "description": "MxSxC1 Foliage",
+    "supported_formats": {"min_inclusive": 22, "max_inclusive": 40}
+  }
+}
+
